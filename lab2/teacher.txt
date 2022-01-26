@@ -1,0 +1,1 @@
+Name = Khrystyna, Surname = Dmytrenko, Age = 28, Languages = Spanish, Experience = 5
